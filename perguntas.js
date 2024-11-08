@@ -18,8 +18,8 @@ criaCartão(
 
 criaCartão(
     'Artes',
-    'que cor se obtem na mistura das cores azul e vermelho?',
-    'cor roxa ou violeta'
+    'que cor se obtem na mistura das cores branco e vermelho?',
+    'cor rosa'
 )
 
 criaCartão(
@@ -30,8 +30,8 @@ criaCartão(
 
 criaCartão(
     'Geografia',
-    'Quais são todos os continentes?',
-    'America, Europa, Africa, Asia, Antartica e Oceania'
+    'Quantos continentes existem e quais são eles?',
+    'Existem 6 continentes sendo eles America, Europa, Africa, Asia, Antartica e Oceania'
 )
 
 criaCartão(
@@ -60,14 +60,14 @@ criaCartão(
 
 criaCartão(
     'Geografia',
-    'A Russia esta localizada na Ásia ou na Europa?',
-    ' Ambos os continentes'
+    'A Inglaterra esta localizada na Ásia ou na Europa?',
+    ' Na europa'
 )
 
 criaCartão(
     'História',
-    'Quais foram as principais causas da queda do Império Romano do Ocidente',
-    'Invasões barbáras, instabilidade política e econômica'
+    'Em que ano a escravidão foi abolida no Brasil?',
+    '1888'
 )
 
 criaCartão(
@@ -78,14 +78,14 @@ criaCartão(
 
 criaCartão(
     'Geografia',
-    'qual o menor país do mundo?',
-    'Vaticano'
+    'qual o maior país do mundo?',
+    'Rússia'
 )
 
 criaCartão(
     'Artes',
-    'Quem pintou a Monalisa',
-    'Leonardo da Vinci'
+    'Quem pintou a Noite Estrelada ',
+    'Vicent Van Gogh'
 )
 
 criaCartão(
@@ -108,12 +108,12 @@ criaCartão(
 
 criaCartão(
     'Educação Fisíca',
-    'Que ano foi criado o vôlei?',
-    '1895'
+    'Que ano foi criado o punhobol?',
+    '1870'
 )
 
 criaCartão(
     'História',
-    'O que foi a KGB',
-    'Principal organização de serviços secretos da União Soviética'
+    'quanto tempo durou a era Vargas??',
+    'durou 15 anos'
 )
